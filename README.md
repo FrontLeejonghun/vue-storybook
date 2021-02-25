@@ -1,24 +1,11 @@
 # vue-stroybook
 
-## Project setup
+## Project start
 ```
-yarn install
+yarn storybook
 ```
+vue cli to storybook template
+u can see storybook docs
+https://storybook.js.org/docs/vue/get-started/install
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
