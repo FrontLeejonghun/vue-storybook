@@ -4,9 +4,7 @@
 ```
 yarn storybook
 ```
-vue cli to storybook template
-u can see storybook docs
-https://storybook.js.org/docs/vue/get-started/install
+its when i use make this
 
 
 init vue/cli
